@@ -12,6 +12,8 @@
 ## اجرا
 
 - برای اجرای کد دستورات زیر را وارد کنید:
-`javac src/App.java`
-`cd src`
-`java App`
+```sh
+javac src/App.java
+cd src
+java App
+```
